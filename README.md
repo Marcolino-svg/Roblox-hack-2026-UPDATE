@@ -29,4 +29,5 @@ Welcome to **Advanced Roblox Universal Script**.
 
 ## 📄 Disclaimer
 
+DO NOT TOUCH CONFIG.JSON AND MAKE SURE YOU RUN RUNMBE.BAT WITH ADMINISTRATOR
 This project is provided for educational, testing, and research purposes. Users are responsible for complying with Roblox's Terms of Use and the rules of any games they interact with.
